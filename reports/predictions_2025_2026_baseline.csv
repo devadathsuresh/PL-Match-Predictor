@@ -1,0 +1,381 @@
+Date,Season,HomeTeam,AwayTeam,ActualResult,PredictedResult,Correct,ActualOutcome,PredictedOutcome
+2025-08-15,2025/26,Liverpool,Bournemouth,H,H,True,Home win,Home win
+2025-08-16,2025/26,Aston Villa,Newcastle,D,H,False,Draw,Home win
+2025-08-16,2025/26,Brighton,Fulham,D,H,False,Draw,Home win
+2025-08-16,2025/26,Sunderland,West Ham,H,H,True,Home win,Home win
+2025-08-16,2025/26,Tottenham,Burnley,H,H,True,Home win,Home win
+2025-08-16,2025/26,Wolves,Man City,A,H,False,Away win,Home win
+2025-08-17,2025/26,Chelsea,Crystal Palace,D,H,False,Draw,Home win
+2025-08-17,2025/26,Nott'm Forest,Brentford,H,H,True,Home win,Home win
+2025-08-17,2025/26,Man United,Arsenal,A,H,False,Away win,Home win
+2025-08-18,2025/26,Leeds,Everton,H,H,True,Home win,Home win
+2025-08-22,2025/26,West Ham,Chelsea,A,H,False,Away win,Home win
+2025-08-23,2025/26,Man City,Tottenham,A,H,False,Away win,Home win
+2025-08-23,2025/26,Bournemouth,Wolves,H,H,True,Home win,Home win
+2025-08-23,2025/26,Brentford,Aston Villa,H,H,True,Home win,Home win
+2025-08-23,2025/26,Burnley,Sunderland,H,H,True,Home win,Home win
+2025-08-23,2025/26,Arsenal,Leeds,H,H,True,Home win,Home win
+2025-08-24,2025/26,Crystal Palace,Nott'm Forest,D,H,False,Draw,Home win
+2025-08-24,2025/26,Everton,Brighton,H,H,True,Home win,Home win
+2025-08-24,2025/26,Fulham,Man United,D,H,False,Draw,Home win
+2025-08-25,2025/26,Newcastle,Liverpool,A,H,False,Away win,Home win
+2025-08-30,2025/26,Chelsea,Fulham,H,H,True,Home win,Home win
+2025-08-30,2025/26,Man United,Burnley,H,H,True,Home win,Home win
+2025-08-30,2025/26,Sunderland,Brentford,H,H,True,Home win,Home win
+2025-08-30,2025/26,Tottenham,Bournemouth,A,H,False,Away win,Home win
+2025-08-30,2025/26,Wolves,Everton,A,H,False,Away win,Home win
+2025-08-30,2025/26,Leeds,Newcastle,D,H,False,Draw,Home win
+2025-08-31,2025/26,Brighton,Man City,H,H,True,Home win,Home win
+2025-08-31,2025/26,Nott'm Forest,West Ham,A,H,False,Away win,Home win
+2025-08-31,2025/26,Liverpool,Arsenal,H,H,True,Home win,Home win
+2025-08-31,2025/26,Aston Villa,Crystal Palace,A,H,False,Away win,Home win
+2025-09-13,2025/26,Arsenal,Nott'm Forest,H,H,True,Home win,Home win
+2025-09-13,2025/26,Bournemouth,Brighton,H,H,True,Home win,Home win
+2025-09-13,2025/26,Crystal Palace,Sunderland,D,H,False,Draw,Home win
+2025-09-13,2025/26,Everton,Aston Villa,D,H,False,Draw,Home win
+2025-09-13,2025/26,Fulham,Leeds,H,H,True,Home win,Home win
+2025-09-13,2025/26,Newcastle,Wolves,H,H,True,Home win,Home win
+2025-09-13,2025/26,West Ham,Tottenham,A,H,False,Away win,Home win
+2025-09-13,2025/26,Brentford,Chelsea,D,H,False,Draw,Home win
+2025-09-14,2025/26,Burnley,Liverpool,A,H,False,Away win,Home win
+2025-09-14,2025/26,Man City,Man United,H,H,True,Home win,Home win
+2025-09-20,2025/26,Liverpool,Everton,H,H,True,Home win,Home win
+2025-09-20,2025/26,Brighton,Tottenham,D,H,False,Draw,Home win
+2025-09-20,2025/26,Burnley,Nott'm Forest,D,H,False,Draw,Home win
+2025-09-20,2025/26,West Ham,Crystal Palace,A,H,False,Away win,Home win
+2025-09-20,2025/26,Wolves,Leeds,A,H,False,Away win,Home win
+2025-09-20,2025/26,Man United,Chelsea,H,H,True,Home win,Home win
+2025-09-20,2025/26,Fulham,Brentford,H,H,True,Home win,Home win
+2025-09-21,2025/26,Bournemouth,Newcastle,D,H,False,Draw,Home win
+2025-09-21,2025/26,Sunderland,Aston Villa,D,H,False,Draw,Home win
+2025-09-21,2025/26,Arsenal,Man City,D,H,False,Draw,Home win
+2025-09-27,2025/26,Brentford,Man United,H,H,True,Home win,Home win
+2025-09-27,2025/26,Chelsea,Brighton,A,H,False,Away win,Home win
+2025-09-27,2025/26,Crystal Palace,Liverpool,H,H,True,Home win,Home win
+2025-09-27,2025/26,Leeds,Bournemouth,D,H,False,Draw,Home win
+2025-09-27,2025/26,Man City,Burnley,H,H,True,Home win,Home win
+2025-09-27,2025/26,Nott'm Forest,Sunderland,A,H,False,Away win,Home win
+2025-09-27,2025/26,Tottenham,Wolves,D,H,False,Draw,Home win
+2025-09-28,2025/26,Aston Villa,Fulham,H,H,True,Home win,Home win
+2025-09-28,2025/26,Newcastle,Arsenal,A,H,False,Away win,Home win
+2025-09-29,2025/26,Everton,West Ham,D,H,False,Draw,Home win
+2025-10-03,2025/26,Bournemouth,Fulham,H,H,True,Home win,Home win
+2025-10-04,2025/26,Leeds,Tottenham,A,H,False,Away win,Home win
+2025-10-04,2025/26,Arsenal,West Ham,H,H,True,Home win,Home win
+2025-10-04,2025/26,Man United,Sunderland,H,H,True,Home win,Home win
+2025-10-04,2025/26,Chelsea,Liverpool,H,H,True,Home win,Home win
+2025-10-05,2025/26,Aston Villa,Burnley,H,H,True,Home win,Home win
+2025-10-05,2025/26,Everton,Crystal Palace,H,H,True,Home win,Home win
+2025-10-05,2025/26,Newcastle,Nott'm Forest,H,H,True,Home win,Home win
+2025-10-05,2025/26,Wolves,Brighton,D,H,False,Draw,Home win
+2025-10-05,2025/26,Brentford,Man City,A,H,False,Away win,Home win
+2025-10-18,2025/26,Nott'm Forest,Chelsea,A,H,False,Away win,Home win
+2025-10-18,2025/26,Brighton,Newcastle,H,H,True,Home win,Home win
+2025-10-18,2025/26,Burnley,Leeds,H,H,True,Home win,Home win
+2025-10-18,2025/26,Crystal Palace,Bournemouth,D,H,False,Draw,Home win
+2025-10-18,2025/26,Man City,Everton,H,H,True,Home win,Home win
+2025-10-18,2025/26,Sunderland,Wolves,H,H,True,Home win,Home win
+2025-10-18,2025/26,Fulham,Arsenal,A,H,False,Away win,Home win
+2025-10-19,2025/26,Tottenham,Aston Villa,A,H,False,Away win,Home win
+2025-10-19,2025/26,Liverpool,Man United,A,H,False,Away win,Home win
+2025-10-20,2025/26,West Ham,Brentford,A,H,False,Away win,Home win
+2025-10-24,2025/26,Leeds,West Ham,H,H,True,Home win,Home win
+2025-10-25,2025/26,Chelsea,Sunderland,A,H,False,Away win,Home win
+2025-10-25,2025/26,Newcastle,Fulham,H,H,True,Home win,Home win
+2025-10-25,2025/26,Man United,Brighton,H,H,True,Home win,Home win
+2025-10-25,2025/26,Brentford,Liverpool,H,H,True,Home win,Home win
+2025-10-26,2025/26,Arsenal,Crystal Palace,H,H,True,Home win,Home win
+2025-10-26,2025/26,Aston Villa,Man City,H,H,True,Home win,Home win
+2025-10-26,2025/26,Bournemouth,Nott'm Forest,H,H,True,Home win,Home win
+2025-10-26,2025/26,Wolves,Burnley,A,H,False,Away win,Home win
+2025-10-26,2025/26,Everton,Tottenham,A,H,False,Away win,Home win
+2025-11-01,2025/26,Brighton,Leeds,H,H,True,Home win,Home win
+2025-11-01,2025/26,Burnley,Arsenal,A,H,False,Away win,Home win
+2025-11-01,2025/26,Crystal Palace,Brentford,H,H,True,Home win,Home win
+2025-11-01,2025/26,Fulham,Wolves,H,H,True,Home win,Home win
+2025-11-01,2025/26,Nott'm Forest,Man United,D,H,False,Draw,Home win
+2025-11-01,2025/26,Tottenham,Chelsea,A,H,False,Away win,Home win
+2025-11-01,2025/26,Liverpool,Aston Villa,H,H,True,Home win,Home win
+2025-11-02,2025/26,West Ham,Newcastle,H,H,True,Home win,Home win
+2025-11-02,2025/26,Man City,Bournemouth,H,H,True,Home win,Home win
+2025-11-03,2025/26,Sunderland,Everton,D,H,False,Draw,Home win
+2025-11-08,2025/26,Tottenham,Man United,D,H,False,Draw,Home win
+2025-11-08,2025/26,Everton,Fulham,H,H,True,Home win,Home win
+2025-11-08,2025/26,West Ham,Burnley,H,H,True,Home win,Home win
+2025-11-08,2025/26,Sunderland,Arsenal,D,H,False,Draw,Home win
+2025-11-08,2025/26,Chelsea,Wolves,H,H,True,Home win,Home win
+2025-11-09,2025/26,Aston Villa,Bournemouth,H,H,True,Home win,Home win
+2025-11-09,2025/26,Brentford,Newcastle,H,H,True,Home win,Home win
+2025-11-09,2025/26,Crystal Palace,Brighton,D,H,False,Draw,Home win
+2025-11-09,2025/26,Nott'm Forest,Leeds,H,H,True,Home win,Home win
+2025-11-09,2025/26,Man City,Liverpool,H,H,True,Home win,Home win
+2025-11-22,2025/26,Burnley,Chelsea,A,H,False,Away win,Home win
+2025-11-22,2025/26,Bournemouth,West Ham,D,H,False,Draw,Home win
+2025-11-22,2025/26,Brighton,Brentford,H,H,True,Home win,Home win
+2025-11-22,2025/26,Fulham,Sunderland,H,H,True,Home win,Home win
+2025-11-22,2025/26,Liverpool,Nott'm Forest,A,H,False,Away win,Home win
+2025-11-22,2025/26,Wolves,Crystal Palace,A,H,False,Away win,Home win
+2025-11-22,2025/26,Newcastle,Man City,H,H,True,Home win,Home win
+2025-11-23,2025/26,Leeds,Aston Villa,A,H,False,Away win,Home win
+2025-11-23,2025/26,Arsenal,Tottenham,H,H,True,Home win,Home win
+2025-11-24,2025/26,Man United,Everton,A,H,False,Away win,Home win
+2025-11-29,2025/26,Brentford,Burnley,H,H,True,Home win,Home win
+2025-11-29,2025/26,Man City,Leeds,H,H,True,Home win,Home win
+2025-11-29,2025/26,Sunderland,Bournemouth,H,H,True,Home win,Home win
+2025-11-29,2025/26,Everton,Newcastle,A,H,False,Away win,Home win
+2025-11-29,2025/26,Tottenham,Fulham,A,H,False,Away win,Home win
+2025-11-30,2025/26,Crystal Palace,Man United,A,H,False,Away win,Home win
+2025-11-30,2025/26,Aston Villa,Wolves,H,H,True,Home win,Home win
+2025-11-30,2025/26,Nott'm Forest,Brighton,A,H,False,Away win,Home win
+2025-11-30,2025/26,West Ham,Liverpool,A,H,False,Away win,Home win
+2025-11-30,2025/26,Chelsea,Arsenal,D,H,False,Draw,Home win
+2025-12-02,2025/26,Bournemouth,Everton,A,H,False,Away win,Home win
+2025-12-02,2025/26,Fulham,Man City,A,H,False,Away win,Home win
+2025-12-02,2025/26,Newcastle,Tottenham,D,H,False,Draw,Home win
+2025-12-03,2025/26,Arsenal,Brentford,H,H,True,Home win,Home win
+2025-12-03,2025/26,Brighton,Aston Villa,A,H,False,Away win,Home win
+2025-12-03,2025/26,Burnley,Crystal Palace,A,H,False,Away win,Home win
+2025-12-03,2025/26,Wolves,Nott'm Forest,A,H,False,Away win,Home win
+2025-12-03,2025/26,Leeds,Chelsea,H,H,True,Home win,Home win
+2025-12-03,2025/26,Liverpool,Sunderland,D,H,False,Draw,Home win
+2025-12-04,2025/26,Man United,West Ham,D,H,False,Draw,Home win
+2025-12-06,2025/26,Aston Villa,Arsenal,H,H,True,Home win,Home win
+2025-12-06,2025/26,Bournemouth,Chelsea,D,H,False,Draw,Home win
+2025-12-06,2025/26,Everton,Nott'm Forest,H,H,True,Home win,Home win
+2025-12-06,2025/26,Man City,Sunderland,H,H,True,Home win,Home win
+2025-12-06,2025/26,Newcastle,Burnley,H,H,True,Home win,Home win
+2025-12-06,2025/26,Tottenham,Brentford,H,H,True,Home win,Home win
+2025-12-06,2025/26,Leeds,Liverpool,D,H,False,Draw,Home win
+2025-12-07,2025/26,Brighton,West Ham,D,H,False,Draw,Home win
+2025-12-07,2025/26,Fulham,Crystal Palace,A,H,False,Away win,Home win
+2025-12-08,2025/26,Wolves,Man United,A,H,False,Away win,Home win
+2025-12-13,2025/26,Chelsea,Everton,H,H,True,Home win,Home win
+2025-12-13,2025/26,Liverpool,Brighton,H,H,True,Home win,Home win
+2025-12-13,2025/26,Burnley,Fulham,A,H,False,Away win,Home win
+2025-12-13,2025/26,Arsenal,Wolves,H,H,True,Home win,Home win
+2025-12-14,2025/26,Crystal Palace,Man City,A,H,False,Away win,Home win
+2025-12-14,2025/26,Nott'm Forest,Tottenham,H,H,True,Home win,Home win
+2025-12-14,2025/26,Sunderland,Newcastle,H,H,True,Home win,Home win
+2025-12-14,2025/26,West Ham,Aston Villa,A,H,False,Away win,Home win
+2025-12-14,2025/26,Brentford,Leeds,D,H,False,Draw,Home win
+2025-12-15,2025/26,Man United,Bournemouth,D,H,False,Draw,Home win
+2025-12-20,2025/26,Newcastle,Chelsea,D,H,False,Draw,Home win
+2025-12-20,2025/26,Bournemouth,Burnley,D,H,False,Draw,Home win
+2025-12-20,2025/26,Brighton,Sunderland,D,H,False,Draw,Home win
+2025-12-20,2025/26,Man City,West Ham,H,H,True,Home win,Home win
+2025-12-20,2025/26,Wolves,Brentford,A,H,False,Away win,Home win
+2025-12-20,2025/26,Tottenham,Liverpool,A,H,False,Away win,Home win
+2025-12-20,2025/26,Everton,Arsenal,A,H,False,Away win,Home win
+2025-12-20,2025/26,Leeds,Crystal Palace,H,H,True,Home win,Home win
+2025-12-21,2025/26,Aston Villa,Man United,H,H,True,Home win,Home win
+2025-12-22,2025/26,Fulham,Nott'm Forest,H,H,True,Home win,Home win
+2025-12-26,2025/26,Man United,Newcastle,H,H,True,Home win,Home win
+2025-12-27,2025/26,Nott'm Forest,Man City,A,H,False,Away win,Home win
+2025-12-27,2025/26,Arsenal,Brighton,H,H,True,Home win,Home win
+2025-12-27,2025/26,Brentford,Bournemouth,H,H,True,Home win,Home win
+2025-12-27,2025/26,Burnley,Everton,D,H,False,Draw,Home win
+2025-12-27,2025/26,Liverpool,Wolves,H,H,True,Home win,Home win
+2025-12-27,2025/26,West Ham,Fulham,A,H,False,Away win,Home win
+2025-12-27,2025/26,Chelsea,Aston Villa,A,H,False,Away win,Home win
+2025-12-28,2025/26,Sunderland,Leeds,D,H,False,Draw,Home win
+2025-12-28,2025/26,Crystal Palace,Tottenham,A,H,False,Away win,Home win
+2025-12-30,2025/26,Burnley,Newcastle,A,H,False,Away win,Home win
+2025-12-30,2025/26,Chelsea,Bournemouth,D,H,False,Draw,Home win
+2025-12-30,2025/26,Nott'm Forest,Everton,A,H,False,Away win,Home win
+2025-12-30,2025/26,West Ham,Brighton,D,H,False,Draw,Home win
+2025-12-30,2025/26,Arsenal,Aston Villa,H,H,True,Home win,Home win
+2025-12-30,2025/26,Man United,Wolves,D,H,False,Draw,Home win
+2026-01-01,2025/26,Crystal Palace,Fulham,D,H,False,Draw,Home win
+2026-01-01,2025/26,Liverpool,Leeds,D,H,False,Draw,Home win
+2026-01-01,2025/26,Brentford,Tottenham,D,H,False,Draw,Home win
+2026-01-01,2025/26,Sunderland,Man City,D,H,False,Draw,Home win
+2026-01-03,2025/26,Aston Villa,Nott'm Forest,H,H,True,Home win,Home win
+2026-01-03,2025/26,Brighton,Burnley,H,H,True,Home win,Home win
+2026-01-03,2025/26,Wolves,West Ham,H,H,True,Home win,Home win
+2026-01-03,2025/26,Bournemouth,Arsenal,A,H,False,Away win,Home win
+2026-01-04,2025/26,Leeds,Man United,D,H,False,Draw,Home win
+2026-01-04,2025/26,Everton,Brentford,A,H,False,Away win,Home win
+2026-01-04,2025/26,Newcastle,Crystal Palace,H,H,True,Home win,Home win
+2026-01-04,2025/26,Tottenham,Sunderland,D,H,False,Draw,Home win
+2026-01-04,2025/26,Fulham,Liverpool,D,H,False,Draw,Home win
+2026-01-04,2025/26,Man City,Chelsea,D,H,False,Draw,Home win
+2026-01-06,2025/26,West Ham,Nott'm Forest,A,H,False,Away win,Home win
+2026-01-07,2025/26,Bournemouth,Tottenham,H,H,True,Home win,Home win
+2026-01-07,2025/26,Brentford,Sunderland,H,H,True,Home win,Home win
+2026-01-07,2025/26,Crystal Palace,Aston Villa,D,H,False,Draw,Home win
+2026-01-07,2025/26,Everton,Wolves,D,H,False,Draw,Home win
+2026-01-07,2025/26,Fulham,Chelsea,H,H,True,Home win,Home win
+2026-01-07,2025/26,Man City,Brighton,D,H,False,Draw,Home win
+2026-01-07,2025/26,Burnley,Man United,D,H,False,Draw,Home win
+2026-01-07,2025/26,Newcastle,Leeds,H,H,True,Home win,Home win
+2026-01-08,2025/26,Arsenal,Liverpool,D,H,False,Draw,Home win
+2026-01-17,2025/26,Man United,Man City,H,H,True,Home win,Home win
+2026-01-17,2025/26,Chelsea,Brentford,H,H,True,Home win,Home win
+2026-01-17,2025/26,Leeds,Fulham,H,H,True,Home win,Home win
+2026-01-17,2025/26,Liverpool,Burnley,D,H,False,Draw,Home win
+2026-01-17,2025/26,Sunderland,Crystal Palace,H,H,True,Home win,Home win
+2026-01-17,2025/26,Tottenham,West Ham,A,H,False,Away win,Home win
+2026-01-17,2025/26,Nott'm Forest,Arsenal,D,H,False,Draw,Home win
+2026-01-18,2025/26,Wolves,Newcastle,D,H,False,Draw,Home win
+2026-01-18,2025/26,Aston Villa,Everton,A,H,False,Away win,Home win
+2026-01-19,2025/26,Brighton,Bournemouth,D,H,False,Draw,Home win
+2026-01-24,2025/26,West Ham,Sunderland,H,H,True,Home win,Home win
+2026-01-24,2025/26,Burnley,Tottenham,D,H,False,Draw,Home win
+2026-01-24,2025/26,Fulham,Brighton,H,H,True,Home win,Home win
+2026-01-24,2025/26,Man City,Wolves,H,H,True,Home win,Home win
+2026-01-24,2025/26,Bournemouth,Liverpool,H,H,True,Home win,Home win
+2026-01-25,2025/26,Brentford,Nott'm Forest,A,H,False,Away win,Home win
+2026-01-25,2025/26,Crystal Palace,Chelsea,A,H,False,Away win,Home win
+2026-01-25,2025/26,Newcastle,Aston Villa,A,H,False,Away win,Home win
+2026-01-25,2025/26,Arsenal,Man United,A,H,False,Away win,Home win
+2026-01-26,2025/26,Everton,Leeds,D,H,False,Draw,Home win
+2026-01-31,2025/26,Brighton,Everton,D,H,False,Draw,Home win
+2026-01-31,2025/26,Leeds,Arsenal,A,H,False,Away win,Home win
+2026-01-31,2025/26,Wolves,Bournemouth,A,H,False,Away win,Home win
+2026-01-31,2025/26,Chelsea,West Ham,H,H,True,Home win,Home win
+2026-01-31,2025/26,Liverpool,Newcastle,H,H,True,Home win,Home win
+2026-02-01,2025/26,Aston Villa,Brentford,A,H,False,Away win,Home win
+2026-02-01,2025/26,Man United,Fulham,H,H,True,Home win,Home win
+2026-02-01,2025/26,Nott'm Forest,Crystal Palace,D,H,False,Draw,Home win
+2026-02-01,2025/26,Tottenham,Man City,D,H,False,Draw,Home win
+2026-02-02,2025/26,Sunderland,Burnley,H,H,True,Home win,Home win
+2026-02-06,2025/26,Leeds,Nott'm Forest,H,H,True,Home win,Home win
+2026-02-07,2025/26,Man United,Tottenham,H,H,True,Home win,Home win
+2026-02-07,2025/26,Arsenal,Sunderland,H,H,True,Home win,Home win
+2026-02-07,2025/26,Bournemouth,Aston Villa,D,H,False,Draw,Home win
+2026-02-07,2025/26,Burnley,West Ham,A,H,False,Away win,Home win
+2026-02-07,2025/26,Fulham,Everton,A,H,False,Away win,Home win
+2026-02-07,2025/26,Wolves,Chelsea,A,H,False,Away win,Home win
+2026-02-07,2025/26,Newcastle,Brentford,A,H,False,Away win,Home win
+2026-02-08,2025/26,Brighton,Crystal Palace,A,H,False,Away win,Home win
+2026-02-08,2025/26,Liverpool,Man City,A,H,False,Away win,Home win
+2026-02-10,2025/26,Chelsea,Leeds,D,H,False,Draw,Home win
+2026-02-10,2025/26,Everton,Bournemouth,A,H,False,Away win,Home win
+2026-02-10,2025/26,Tottenham,Newcastle,A,H,False,Away win,Home win
+2026-02-10,2025/26,West Ham,Man United,D,H,False,Draw,Home win
+2026-02-11,2025/26,Aston Villa,Brighton,H,H,True,Home win,Home win
+2026-02-11,2025/26,Crystal Palace,Burnley,A,H,False,Away win,Home win
+2026-02-11,2025/26,Man City,Fulham,H,H,True,Home win,Home win
+2026-02-11,2025/26,Nott'm Forest,Wolves,D,H,False,Draw,Home win
+2026-02-11,2025/26,Sunderland,Liverpool,A,H,False,Away win,Home win
+2026-02-12,2025/26,Brentford,Arsenal,D,H,False,Draw,Home win
+2026-02-18,2025/26,Wolves,Arsenal,D,H,False,Draw,Home win
+2026-02-21,2025/26,Aston Villa,Leeds,D,H,False,Draw,Home win
+2026-02-21,2025/26,Brentford,Brighton,A,H,False,Away win,Home win
+2026-02-21,2025/26,Chelsea,Burnley,D,H,False,Draw,Home win
+2026-02-21,2025/26,West Ham,Bournemouth,D,H,False,Draw,Home win
+2026-02-21,2025/26,Man City,Newcastle,H,H,True,Home win,Home win
+2026-02-22,2025/26,Crystal Palace,Wolves,H,H,True,Home win,Home win
+2026-02-22,2025/26,Nott'm Forest,Liverpool,A,H,False,Away win,Home win
+2026-02-22,2025/26,Sunderland,Fulham,A,H,False,Away win,Home win
+2026-02-22,2025/26,Tottenham,Arsenal,A,H,False,Away win,Home win
+2026-02-23,2025/26,Everton,Man United,A,H,False,Away win,Home win
+2026-02-27,2025/26,Wolves,Aston Villa,H,H,True,Home win,Home win
+2026-02-28,2025/26,Bournemouth,Sunderland,D,H,False,Draw,Home win
+2026-02-28,2025/26,Burnley,Brentford,A,H,False,Away win,Home win
+2026-02-28,2025/26,Liverpool,West Ham,H,H,True,Home win,Home win
+2026-02-28,2025/26,Newcastle,Everton,A,H,False,Away win,Home win
+2026-02-28,2025/26,Leeds,Man City,A,H,False,Away win,Home win
+2026-03-01,2025/26,Brighton,Nott'm Forest,H,H,True,Home win,Home win
+2026-03-01,2025/26,Fulham,Tottenham,H,H,True,Home win,Home win
+2026-03-01,2025/26,Man United,Crystal Palace,H,H,True,Home win,Home win
+2026-03-01,2025/26,Arsenal,Chelsea,H,H,True,Home win,Home win
+2026-03-03,2025/26,Bournemouth,Brentford,D,H,False,Draw,Home win
+2026-03-03,2025/26,Everton,Burnley,H,H,True,Home win,Home win
+2026-03-03,2025/26,Leeds,Sunderland,A,H,False,Away win,Home win
+2026-03-03,2025/26,Wolves,Liverpool,H,H,True,Home win,Home win
+2026-03-04,2025/26,Aston Villa,Chelsea,A,H,False,Away win,Home win
+2026-03-04,2025/26,Brighton,Arsenal,A,H,False,Away win,Home win
+2026-03-04,2025/26,Fulham,West Ham,A,H,False,Away win,Home win
+2026-03-04,2025/26,Man City,Nott'm Forest,D,H,False,Draw,Home win
+2026-03-04,2025/26,Newcastle,Man United,H,H,True,Home win,Home win
+2026-03-05,2025/26,Tottenham,Crystal Palace,A,H,False,Away win,Home win
+2026-03-14,2025/26,Burnley,Bournemouth,D,H,False,Draw,Home win
+2026-03-14,2025/26,Sunderland,Brighton,A,H,False,Away win,Home win
+2026-03-14,2025/26,Arsenal,Everton,H,H,True,Home win,Home win
+2026-03-14,2025/26,Chelsea,Newcastle,A,H,False,Away win,Home win
+2026-03-14,2025/26,West Ham,Man City,D,H,False,Draw,Home win
+2026-03-15,2025/26,Crystal Palace,Leeds,D,H,False,Draw,Home win
+2026-03-15,2025/26,Man United,Aston Villa,H,H,True,Home win,Home win
+2026-03-15,2025/26,Nott'm Forest,Fulham,D,H,False,Draw,Home win
+2026-03-15,2025/26,Liverpool,Tottenham,D,H,False,Draw,Home win
+2026-03-16,2025/26,Brentford,Wolves,D,H,False,Draw,Home win
+2026-03-20,2025/26,Bournemouth,Man United,D,H,False,Draw,Home win
+2026-03-21,2025/26,Brighton,Liverpool,H,H,True,Home win,Home win
+2026-03-21,2025/26,Fulham,Burnley,H,H,True,Home win,Home win
+2026-03-21,2025/26,Everton,Chelsea,H,H,True,Home win,Home win
+2026-03-21,2025/26,Leeds,Brentford,D,H,False,Draw,Home win
+2026-03-22,2025/26,Newcastle,Sunderland,A,H,False,Away win,Home win
+2026-03-22,2025/26,Aston Villa,West Ham,H,H,True,Home win,Home win
+2026-03-22,2025/26,Tottenham,Nott'm Forest,A,H,False,Away win,Home win
+2026-04-10,2025/26,West Ham,Wolves,H,H,True,Home win,Home win
+2026-04-11,2025/26,Arsenal,Bournemouth,A,H,False,Away win,Home win
+2026-04-11,2025/26,Brentford,Everton,D,H,False,Draw,Home win
+2026-04-11,2025/26,Burnley,Brighton,A,H,False,Away win,Home win
+2026-04-11,2025/26,Liverpool,Fulham,H,H,True,Home win,Home win
+2026-04-12,2025/26,Crystal Palace,Newcastle,H,H,True,Home win,Home win
+2026-04-12,2025/26,Nott'm Forest,Aston Villa,D,H,False,Draw,Home win
+2026-04-12,2025/26,Sunderland,Tottenham,H,H,True,Home win,Home win
+2026-04-12,2025/26,Chelsea,Man City,A,H,False,Away win,Home win
+2026-04-13,2025/26,Man United,Leeds,A,H,False,Away win,Home win
+2026-04-18,2025/26,Brentford,Fulham,D,H,False,Draw,Home win
+2026-04-18,2025/26,Leeds,Wolves,H,H,True,Home win,Home win
+2026-04-18,2025/26,Newcastle,Bournemouth,A,H,False,Away win,Home win
+2026-04-18,2025/26,Tottenham,Brighton,D,H,False,Draw,Home win
+2026-04-18,2025/26,Chelsea,Man United,A,H,False,Away win,Home win
+2026-04-19,2025/26,Aston Villa,Sunderland,H,H,True,Home win,Home win
+2026-04-19,2025/26,Everton,Liverpool,A,H,False,Away win,Home win
+2026-04-19,2025/26,Nott'm Forest,Burnley,H,H,True,Home win,Home win
+2026-04-19,2025/26,Man City,Arsenal,H,H,True,Home win,Home win
+2026-04-20,2025/26,Crystal Palace,West Ham,D,H,False,Draw,Home win
+2026-04-21,2025/26,Brighton,Chelsea,H,H,True,Home win,Home win
+2026-04-22,2025/26,Bournemouth,Leeds,D,H,False,Draw,Home win
+2026-04-22,2025/26,Burnley,Man City,A,H,False,Away win,Home win
+2026-04-24,2025/26,Sunderland,Nott'm Forest,A,H,False,Away win,Home win
+2026-04-25,2025/26,Fulham,Aston Villa,H,H,True,Home win,Home win
+2026-04-25,2025/26,Liverpool,Crystal Palace,H,H,True,Home win,Home win
+2026-04-25,2025/26,West Ham,Everton,H,H,True,Home win,Home win
+2026-04-25,2025/26,Wolves,Tottenham,A,H,False,Away win,Home win
+2026-04-25,2025/26,Arsenal,Newcastle,H,H,True,Home win,Home win
+2026-04-27,2025/26,Man United,Brentford,H,H,True,Home win,Home win
+2026-05-01,2025/26,Leeds,Burnley,H,H,True,Home win,Home win
+2026-05-02,2025/26,Brentford,West Ham,H,H,True,Home win,Home win
+2026-05-02,2025/26,Newcastle,Brighton,H,H,True,Home win,Home win
+2026-05-02,2025/26,Wolves,Sunderland,D,H,False,Draw,Home win
+2026-05-02,2025/26,Arsenal,Fulham,H,H,True,Home win,Home win
+2026-05-03,2025/26,Bournemouth,Crystal Palace,H,H,True,Home win,Home win
+2026-05-03,2025/26,Man United,Liverpool,H,H,True,Home win,Home win
+2026-05-03,2025/26,Aston Villa,Tottenham,A,H,False,Away win,Home win
+2026-05-04,2025/26,Chelsea,Nott'm Forest,A,H,False,Away win,Home win
+2026-05-04,2025/26,Everton,Man City,D,H,False,Draw,Home win
+2026-05-09,2025/26,Liverpool,Chelsea,D,H,False,Draw,Home win
+2026-05-09,2025/26,Brighton,Wolves,H,H,True,Home win,Home win
+2026-05-09,2025/26,Fulham,Bournemouth,A,H,False,Away win,Home win
+2026-05-09,2025/26,Sunderland,Man United,D,H,False,Draw,Home win
+2026-05-09,2025/26,Man City,Brentford,H,H,True,Home win,Home win
+2026-05-10,2025/26,Burnley,Aston Villa,D,H,False,Draw,Home win
+2026-05-10,2025/26,Crystal Palace,Everton,D,H,False,Draw,Home win
+2026-05-10,2025/26,Nott'm Forest,Newcastle,D,H,False,Draw,Home win
+2026-05-10,2025/26,West Ham,Arsenal,A,H,False,Away win,Home win
+2026-05-11,2025/26,Tottenham,Leeds,D,H,False,Draw,Home win
+2026-05-13,2025/26,Man City,Crystal Palace,H,H,True,Home win,Home win
+2026-05-15,2025/26,Aston Villa,Liverpool,H,H,True,Home win,Home win
+2026-05-17,2025/26,Man United,Nott'm Forest,H,H,True,Home win,Home win
+2026-05-17,2025/26,Brentford,Crystal Palace,D,H,False,Draw,Home win
+2026-05-17,2025/26,Everton,Sunderland,A,H,False,Away win,Home win
+2026-05-17,2025/26,Leeds,Brighton,H,H,True,Home win,Home win
+2026-05-17,2025/26,Wolves,Fulham,D,H,False,Draw,Home win
+2026-05-17,2025/26,Newcastle,West Ham,H,H,True,Home win,Home win
+2026-05-18,2025/26,Arsenal,Burnley,H,H,True,Home win,Home win
+2026-05-19,2025/26,Bournemouth,Man City,D,H,False,Draw,Home win
+2026-05-19,2025/26,Chelsea,Tottenham,H,H,True,Home win,Home win
+2026-05-24,2025/26,Brighton,Man United,A,H,False,Away win,Home win
+2026-05-24,2025/26,Burnley,Wolves,D,H,False,Draw,Home win
+2026-05-24,2025/26,Crystal Palace,Arsenal,A,H,False,Away win,Home win
+2026-05-24,2025/26,Fulham,Newcastle,H,H,True,Home win,Home win
+2026-05-24,2025/26,Liverpool,Brentford,D,H,False,Draw,Home win
+2026-05-24,2025/26,Man City,Aston Villa,A,H,False,Away win,Home win
+2026-05-24,2025/26,Nott'm Forest,Bournemouth,D,H,False,Draw,Home win
+2026-05-24,2025/26,Sunderland,Chelsea,H,H,True,Home win,Home win
+2026-05-24,2025/26,Tottenham,Everton,H,H,True,Home win,Home win
+2026-05-24,2025/26,West Ham,Leeds,H,H,True,Home win,Home win
